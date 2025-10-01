@@ -1,4 +1,4 @@
-# my_project7
+# This is an online view of the comparasion beteween car prices and their millage
 My project 7 
 This is my project from the sprint 7
 It has a buttom that help you visualize the graphics, if you push it it's gonna expand a full picture where you can see the comparasion betwen some cars prices vs the mileage 
